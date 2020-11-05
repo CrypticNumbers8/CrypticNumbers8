@@ -1,5 +1,5 @@
 # This is ANIKET KARNA
-<img src="https://github.com/CrypticNumbers8/Data-Structures-and-Algorithms/blob/master/1.PNG" width="350" height="225">
+<img src="https://github.com/CrypticNumbers8/Data-Structures-and-Algorithms/blob/master/1.PNG" width="250" height="150">
 
 
 
