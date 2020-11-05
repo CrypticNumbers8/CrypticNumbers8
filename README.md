@@ -15,4 +15,4 @@ I'm an aspiring data-scientist and am trying to make sense out of the data that 
 * [English Premier League (1993-2018) Data Visualization](https://github.com/CrypticNumbers8/EPL-1993-2018)
 * [Spanish Laliga Basic Data Visualization](https://github.com/CrypticNumbers8/Laliga-Clubs-Analysis)
 
-[LinkedIn](https://www.linkedin.com/in/aniket-karna/)
+My LinkedIn : [LinkedIn](https://www.linkedin.com/in/aniket-karna/)
