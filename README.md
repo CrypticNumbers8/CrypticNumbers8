@@ -1,8 +1,14 @@
 # This is ANIKET KARNA
 
-## Welcome to my Portfolio 👋
+### Welcome to my Portfolio! 👋
+
+### I'm an aspiring data-scientist and am trying to make sense out of the data that I find interesting. For me, data is like memory, and the main function of memory is not to keep accurate records of the past, rather its function is to make us prepared for the future.
 
 ## My Projects:
-* Item 1
-* Item 2
-* Item 3
+* Book Recommendation System based on Goodreads Ratings
+* English Fantasy Premier League Optimal Team Generator
+* Waste Classification as Organic or Recyclable using Keras and Convolutional Neural Network
+* Women's Tennis Association(WTA) Data Analysis
+* Ultimate Fighting Championship(UFC) Analysis
+* English Premier League Data Visualization
+* Spanish Laliga Data Visualization
