@@ -1,4 +1,7 @@
 # This is ANIKET KARNA
+<img src="https://github.com/CrypticNumbers8/Data-Structures-and-Algorithms/blob/master/1.PNG" width="350" height="225">
+
+
 
 ### Welcome to my Portfolio! 👋
 
