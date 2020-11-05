@@ -1,11 +1,8 @@
-### Hi there 👋
+# This is ANIKET KARNA
 
-<!--
-**CrypticNumbers8/CrypticNumbers8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my Portfolio 👋
 
-ANIKET KARNA
-
-My Projects:
+## My Projects:
 * Item 1
 * Item 2
 * Item 3
