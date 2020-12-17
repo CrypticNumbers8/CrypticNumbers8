@@ -4,7 +4,7 @@
 
 ### Welcome to my Github!! 👋
 
-I'm an aspiring data-scientist and am trying to make sense out of the data that I find interesting. For me, data is like memory, and the main function of memory is not to keep accurate records of the past, rather its function is to make us prepared for the future.
+I'm an aspiring data-scientist and am trying to make sense out of the data that I find interesting. For me, data is like memory, and the main function of memory is not to keep accurate records of the past, rather its function is to prepare us for the chaotic future.
 
 ## My Projects:
 * [Book Recommendation System based on Goodreads Ratings - 100%](https://github.com/CrypticNumbers8/Goodreads-Project)
