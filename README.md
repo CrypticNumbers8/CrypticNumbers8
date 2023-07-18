@@ -10,8 +10,5 @@
 * [Waste Classification as Organic or Recyclable using Keras and Convolutional Neural Network- 100%](https://github.com/CrypticNumbers8/Waste-Classification-using-Keras-and-CNN)
 * [English Fantasy Premier League Optimal Team Generator - 85%](https://github.com/CrypticNumbers8/Fantasy-Premier-League-XI)
 * [Spanish Laliga Basic Data Visualization - 33%](https://github.com/CrypticNumbers8/Laliga-Clubs-Analysis)
-* [English Premier League (1993-2018) Data Visualization - 30%](https://github.com/CrypticNumbers8/EPL-1993-2018)
-* [Women's Tennis Association(WTA) Data Analysis - 0%](https://github.com/CrypticNumbers8/WTA-Data-Analysis)
-* [Ultimate Fighting Championship(UFC) Analysis - 0%](https://github.com/CrypticNumbers8/UFC-Analysis)
 
 My LinkedIn : [LinkedIn](https://www.linkedin.com/in/aniket-karna/)
